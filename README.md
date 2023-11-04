@@ -18,7 +18,7 @@ To run the Dynamic Form Generator on your local machine, follow these steps:
 1. Clone the repository to your local machine:
 
    ``````bash
-   git clone https://github.com/your-username/dynamic-form-generator.git
+   git clone https://github.com/AkashP1302/dynamic-form-generator.git
 
    ```cd dynamic-form-generator
    ````npm install
